@@ -1,3 +1,6 @@
+This menu was built using the foundation for sites basic site template, jquery and basic css transitions. Original readme below:
+
+
 # Foundation for Sites Template
 
 **Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
