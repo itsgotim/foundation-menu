@@ -15,7 +15,7 @@
 			margin-left: -200px;
 			padding-left: 20px;
 			opacity: 0;
-			transition: margin 1s ease-in-out, padding 1s ease-in-out, background-color 0.4s ease;
+			transition: margin 0.4s ease-in-out, padding 0.4s ease-in-out, background-color 0.4s ease, opacity 1s ease-in-out;
 			&:hover {
 				color: white;
 				background-color: #00ccff;				
